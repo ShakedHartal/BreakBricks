@@ -1,5 +1,7 @@
 # Break Bricker Game
-This is a classic brick-breaker game with a twist. Each brick has a different collision strategy. The player has three lives to break as many bricks as he can without losing the ball.
+This is a classic brick-breaker game with a twist. Each brick has a different collision strategy. The player has three lives to break as many bricks as he can without losing the ball.  
+
+![Break Bricks Demo](https://github.com/ShakedHartal/BreakBricks/assets/168190882/f4ee986f-3ebe-4119-a416-c9a3e302e870)
 
 # Game Rules
 * The player starts with three lives, a main ball, and a paddle.
@@ -21,7 +23,3 @@ Collect power-ups to gain advantages or extra lives.
 * Camera - Change the camera location, keeps the main ball centered.
 * Heart - Create extra lives with a heart fall from that brick.
 * Double strategies - bricks can have two strategies from the mention strategies above.
-
-# Game Demo
-
-![Break Bricks Demo](https://github.com/ShakedHartal/BreakBricks/assets/168190882/f4ee986f-3ebe-4119-a416-c9a3e302e870)
